@@ -1,0 +1,79 @@
+body{
+background-image:url(img/Back.jpg);
+margin:0px;
+}
+.topbar{
+width: 1900px;
+position: fixed;
+top: 100px; 
+height: 50px;
+background-image:url(img/Top2.png);
+}
+.topbar2{
+position: fixed;
+top: 0px; 
+width: 1900px;
+height: 100px;
+background-image:url(img/Top.png);
+}
+.center{
+width: 1900px;
+height: 50px;
+background-color: black;
+margin: left;}
+.botton{
+text-align: center;
+line-height: 50px;
+width: 150px;
+height: 50px;
+color: white;
+float: left;
+font-size: 20px;
+cursor: pointer;
+}
+.list{
+margin-top: 210px;
+display: block;
+padding:0px;
+list-style:none;
+width:150px;
+font:14px Verdana, Arial, Helvetica, sans-serif;
+height: 100%;
+float: left;
+}
+a{
+display: block;
+line-height: 20px;
+padding: 10px;
+text-decoration: none;
+margin-top: 10px;
+color: #FFFFFF;
+background:#000000;
+border-radius: 10px;
+}
+ .left {
+float: left;
+margin-left: 10px;
+}
+.size{
+margin-top: 150px;
+width: 500px;
+margin-left: 50px;  
+}
+.text{
+margin-top: 220px;
+margin-left: 100px;
+float: left;
+background: rgba(249, 249, 249, 0.7);
+padding: 30px;
+font-size: 18px;
+text-align: justify;
+width: 700px;}
+.copyright{
+position: fixed;
+background: black;
+color: white;
+top: 98%;
+width: 1900px;
+height: 30px;
+}
